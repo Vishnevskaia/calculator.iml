@@ -1,0 +1,3 @@
+class Arabskie_cifri {
+
+}
